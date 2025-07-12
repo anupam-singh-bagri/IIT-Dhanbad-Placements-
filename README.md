@@ -1,2 +1,27 @@
-# IIT-Dhanbad-Placements-
-This project analyzes IIT Dhanbad’s placement performance from 2020 to 2025, benchmarking it against India’s top 5 IITs (Madras, Delhi, Bombay, Kanpur, Kharagpur). The study identifies key trends, performance gaps, and strategic recommendations to improve IIT Dhanbad’s competitive standing in the placement landscape.
+# IIT Dhanbad Placement Analysis (2020–2025) vs Top 5 IITs
+
+## Overview
+Comprehensive analysis of IIT Dhanbad’s placement performance (2020–2025) compared to top 5 IITs. Includes data, code, visualizations, and actionable recommendations.
+
+## Business Problem
+Identify trends, gaps, and strategies to improve IIT Dhanbad’s placement outcomes.
+
+## Data Sources
+- Official placement reports (2020–2025)
+- NIRF rankings
+- Peer IITs’ placement data
+
+## How to Reproduce
+1. Download datasets from `/data`
+2. Run notebooks in `/code`
+3. View visualizations in `/visualizations`
+4. Read the full report in `/docs`
+
+## Key Findings
+- Declining placement rates post-2023
+- Average package below top IITs
+- Need for strategic overhaul
+
+## Contact
+[Anupam Singh Bagri] |  | [https://www.linkedin.com/in/anupam-singh-bagri-b507b4219/]
+
